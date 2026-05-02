@@ -25,6 +25,16 @@ Passionate about games, series, and turning ideas into code. 🎮🎬
 
 ---
 
+### 📈 My GitHub Metrics
+
+| Metric | Badge |
+|--------|-------|
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Theo-Prado&color=blue) |
+| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/Theo-Prado?style=social) |
+| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/Theo-Prado?style=social) |
+
+---
+
 ### 🚀 My Journey
 
 ```python
