@@ -1,90 +1,89 @@
 <div align="center">
 
-# Hello, I'm Theo! 👋🐍
+# 👋 Hello, I'm Theo
 
-**`Python Student | Future Developer | 15 years old`**
-
----
-
-I'm 15 years old and building my programming journey with Python.  
-Every project I create is another step toward my goal: **to work as a developer**.  
-Passionate about games, series, and turning ideas into code. 🎮🎬
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Python+Student+🐍;Future+Developer+💻;Always+learning+new+things+🚀" />
 
 ---
 
-### 🐍 My Current Language
+💡 **15 years old | Passionate about technology**  
+🎯 Goal: Become a professional developer  
+🎮 Games • 🎬 Series • 💻 Coding  
+
+---
+
+### 🧠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theo-Prado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Prado&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=60" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theo-Prado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Prado&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=60"/>
 </p>
 
 ---
 
-### 📈 My GitHub Metrics
-
-| Metric | Badge |
-|--------|-------|
-| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Theo-Prado&color=blue) |
-| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/Theo-Prado?style=social) |
-| **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/Theo-Prado?style=social) |
-
----
-
-### 🔥 Streak Stats
+### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Theo-Prado&theme=tokyonight&hide_border=true&ring=ff6ac1&fire=ff6ac1&currStreakLabel=ff6ac1&sideNums=ff6ac1&currStreakNum=00ffcc&dates=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=Theo-Prado&theme=tokyonight&hide_border=true&ring=ff6ac1&fire=ff6ac1&currStreakNum=00ffcc"/>
 </p>
 
 ---
 
-### 📊 Activity Graph
+### 📈 Activity
 
-[![Theo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Theo-Prado&theme=tokyo-night&hide_border=true&line=ff6ac1&point=00ffcc)](https://github.com/Theo-Prado)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Theo-Prado&theme=tokyo-night&hide_border=true&line=ff6ac1&point=00ffcc"/>
 
 ---
 
-### 🚀 My Journey
+### 📊 Profile Metrics
 
-```python
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Theo-Prado&color=blue"/>
+  <img src="https://img.shields.io/github/followers/Theo-Prado?style=social"/>
+  <img src="https://img.shields.io/github/stars/Theo-Prado?style=social"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+<pre>
 theo = {
-    "name":      "Theo Silva Prado",
-    "age":       15,
-    "language":  "Python 🐍",
-    "goal":      "Work as a developer 💻",
-    "hobbies":   ["Games 🎮", "E-sports 🏆", "Movies & Series 🎬"],
-    "status":    "Learning and evolving every day..."
+    "name": "Theo Silva Prado",
+    "age": 15,
+    "language": "Python 🐍",
+    "goal": "Become a developer 💻",
+    "focus": "Learning & building projects 🚀"
 }
-```
+</pre>
 
 ---
 
-### 🎯 Next Steps
+### 🎯 Goals
 
-- [x] Learn Python fundamentals
-- [ ] Create increasingly complex projects
-- [ ] Explore web development
-- [ ] Learn about databases
-- [ ] Get my first job as a developer 🚀
+- ✅ Learn Python fundamentals  
+- 🔄 Build real projects  
+- 🌐 Learn web development  
+- 🗄️ Study databases  
+- 💼 Get my first dev job  
 
 ---
 
 ### 🎬 Currently
 
-- 🎮 Playing something cool
-- 📺 Binge-watching a series
-- 🐍 Writing code in Python
-- 📈 Growing as a dev every day
+🎮 Gaming  
+📺 Watching series  
+🐍 Coding in Python  
+📈 Improving every day  
 
 ---
 
-<sub>⭐ If you liked any of my projects, leave a star! It means a lot!</sub>
+⭐ **If you like my projects, consider leaving a star!**
 
 </div>
