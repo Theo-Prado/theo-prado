@@ -35,6 +35,12 @@ Passionate about games, series, and turning ideas into code. 🎮🎬
 
 ---
 
+### 📊 Activity Graph
+
+[![Theo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Theo-Prado&theme=tokyo-night&hide_border=true&line=ff6ac1&point=00ffcc)](https://github.com/Theo-Prado)
+
+---
+
 ### 🚀 My Journey
 
 ```python
