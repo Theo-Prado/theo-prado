@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Theo
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=500&lines=Python+Student+🐍;Future+Developer+💻;Always+learning+new+things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=600&lines=Python+Student+🐍;Future+Developer+💻;Always+learning+new+things+🚀;%22Every+big+project+started+out+small.%22" />
 
 ---
 
