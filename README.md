@@ -20,8 +20,10 @@ Passionate about games, series, and turning ideas into code. 🎮🎬
 
 ### 📊 GitHub Statistics
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theo-Prado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Prado&layout=compact&langs_count=6&theme=tokyonight"/>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Theo-Prado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=60" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-Prado&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=60" />
+</p>
 
 ---
 
@@ -32,6 +34,14 @@ Passionate about games, series, and turning ideas into code. 🎮🎬
 | **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Theo-Prado&color=blue) |
 | **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/Theo-Prado?style=social) |
 | **GitHub Followers** | ![Followers](https://img.shields.io/github/followers/Theo-Prado?style=social) |
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Theo-Prado&theme=tokyonight&hide_border=true&ring=ff6ac1&fire=ff6ac1&currStreakLabel=ff6ac1&sideNums=ff6ac1&currStreakNum=00ffcc&dates=ffffff" />
+</p>
 
 ---
 
